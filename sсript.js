@@ -1,4 +1,4 @@
 const userNum = 10369;
 
-let spacedNumber = userNum.toString().split('').join(' ');
+const spacedNumber = userNum.toString().split('').join(' ');
 alert(spacedNumber);
